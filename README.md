@@ -1,4 +1,3 @@
-
 [![Version][version-shield]](version-url)
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -23,9 +22,9 @@
     Discord-bot is an Advanced Multipurpose bot containing more than 400+ Commands. It can make Moderation, Tickets, Radio, Games, Giveaways, Customisation, Economy, Leveling, Invites, Messages, Utilities, Suggestions, Server Stats, etc.
     <br />
     <br />
-    <a href="https://github.com/corwindev/discord-bot/issues">Report Bug</a>
+    <a href="(https://github.com/imSanko/iceCake-Discord-BOT/issues)">Report Bug</a>
     ·
-    <a href="https://github.com/corwindev/discord-bot/issues">Request Feature</a>
+    <a href="(https://github.com/imSanko/iceCake-Discord-BOT/pulls)">Request Feature</a>
   </p>
 </p>
 <!-- ABOUT THE PROJECT -->
