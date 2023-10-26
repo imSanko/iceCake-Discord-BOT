@@ -16,13 +16,13 @@
 <br />
 <p align="center">
   <a href="https://github.com/iamsanko/icecake">
-    <img src="https://cdn.discordapp.com/attachments/778665159316209748/1055857473749274694/Corwin-1-modified.png" alt="Pbot-plus" width="200" height="200">
+    <img src="https://cdn.discordapp.com/attachments/778665159316209748/1055857473749274694/modified.png" alt="Pbot-plus" width="200" height="200">
   </a>
 
   <h3 align="center">Discord-Bot</h3>
 
   <p align="center">
-    Discord-bot is a Advanced Multipurpose bot containing more than 400+ Commands. It can do Moderation, Tickets, Radio, Games, Giveaways, Customisation, Economy, Leveling, Invites, Messages, Utilities, Suggestions, Server Stats etc.
+    Discord-bot is an Advanced Multipurpose bot containing more than 400+ Commands. It can make Moderation, Tickets, Radio, Games, Giveaways, Customisation, Economy, Leveling, Invites, Messages, Utilities, Suggestions, Server Stats, etc.
     <br />
     <br />
     <a href="https://github.com/corwindev/discord-bot/issues">Report Bug</a>
