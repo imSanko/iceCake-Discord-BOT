@@ -9,8 +9,6 @@
 
 <br />
 
-[![Run on Repl.it](https://repl.it/badge/github/CorwinDev/Discord-Bot)](https://replit.com/@CorwinDeveloper/Discord-Bot-v14?v=1)
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/CorwinDev/Discord-Bot)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -62,10 +60,10 @@
 - Discord Token. Get it from [Discord Developers Portal](https://discord.com/developers/applications)
 - Mongo Database URL. Get it from [MongoDB](https://cloud.mongodb.com/v2/635277bf9f5c7b5620db28a4#clusters)
 - Giphy API Token. Get it from [Giphy Developers Portal](https://developers.giphy.com/)
-- APi Key for OpenAi `for ai chatbot`. Get it from [OpenAi Developers Portal](https://beta.openai.com/account/api-keys)
+- API Key for OpenAi `for ai chatbot`. Get it from [OpenAi Developers Portal](https://beta.openai.com/account/api-keys)
 - ClientID `for loading slash commands.`
-- Spotify client ID `for spotify support` [Click here to get](https://developer.spotify.com/dashboard/login)
-- Spotify client Secret `for spotify support` [Click here to get](https://developer.spotify.com/dashboard/login)
+- Spotify client ID `for Spotify support` [Click here to get](https://developer.spotify.com/dashboard/login)
+- Spotify client Secret `for Spotify support` [Click here to get](https://developer.spotify.com/dashboard/login)
 
 ## <img src="https://cdn.discordapp.com/emojis/814216203466965052.png" width="25px" height="25px">》Installation Guide
 
@@ -81,13 +79,13 @@ npm install
 ```
 To start your bot 
 
-```js
+``` js
 node src/index.js
 ```
 ### <img src="https://cdn.discordapp.com/emojis/1055803759831294013.png" width="20px" height="20px"> 》Notice
 > You may not claim this as your own!! **DO NOT COPY THE CODE WITHOUT PERMISSION OF SANKO **
 
-> Discord-Bot is a Multipurpose Discord bot base in [Discord.js](https://github.com/Discordjs/discordjs)
+> Discord-Bot is a Multipurpose Discord bot based in [Discord. js](https://github.com/Discordjs/discordjs)
 If you liked this repository, feel free to leave a star ⭐ to motivate me!
 
 ## <img src="https://cdn.discordapp.com/emojis/1036083490292244493.png" width="15px" height="15px">》Support Server
