@@ -7,7 +7,6 @@
 <br />
 <p align="center">
   <a href="https://github.com/iamsanko/icecake">
-    <img src="https://cdn.discordapp.com/attachments/778665159316209748/1055857473749274694/modified.png" alt="Pbot-plus" width="200" height="200">
   </a>
 
   <h3 align="center">Discord-Bot</h3>
@@ -42,7 +41,7 @@
 ## <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="25px" height="25px">》Screenshots
 <br />
 <p align="center">
-  <a href="https://github.com/corwindev/discord-bot">
+  <a href="(https://github.com/imSanko/iceCake-Discord-BOT/issues)">
     <img src="https://cdn.discordapp.com/attachments/778665159316209748/1055832339328024666/207117434-d98356b1-bf19-418e-9e12-0ef83e0d9a21.png">
   </a>
 </p>
