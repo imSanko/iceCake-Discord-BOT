@@ -1,31 +1,121 @@
-🤖 Discord Bot AI with Automation Chat Bot
 
-Welcome to the Discord Bot AI repository! This versatile bot is powered by JavaScript and utilizes NPM for its dependencies, making it easy to customize and extend. Designed to enhance your Discord server, it combines AI-driven chatbot capabilities with powerful automation features.
+[![Version][version-shield]](version-url)
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Discord-Bot&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 
-🌟 Key Features:
-- 🤯 AI Chatbot: Engage your server members with dynamic and responsive AI-driven conversations.
-- ⚙️ Automation: Automate tasks, notifications, and moderation to keep your server running smoothly.
-- 📈 Scalability: Easily expand and adapt the bot to your server's unique needs.
-- 🕒 Uptime Robot Integration: Ensure your bot stays online and responsive with Uptime Robot.
-- 🛠️ MongoDB Atlas Hosting: Store data and ensure scalability with MongoDB Atlas hosting.
+<br />
 
-🚀 Getting Started:
-1. Clone the repository or download the source code.
-2. Install the required NPM dependencies.
-3. Configure your Discord bot token and MongoDB Atlas connection.
-4. Customize and extend the bot's functionality to suit your server's needs.
-5. Deploy your bot and watch it come to life!
+[![Run on Repl.it](https://repl.it/badge/github/CorwinDev/Discord-Bot)](https://replit.com/@CorwinDeveloper/Discord-Bot-v14?v=1)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/CorwinDev/Discord-Bot)
 
-📖 Detailed Documentation:
-For in-depth setup instructions and usage guidelines, check out our comprehensive documentation in the [Wiki](link-to-wiki).
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/iamsanko/icecake">
+    <img src="https://cdn.discordapp.com/attachments/778665159316209748/1055857473749274694/Corwin-1-modified.png" alt="Pbot-plus" width="200" height="200">
+  </a>
 
-🙌 Contribute:
-We welcome contributions from the open-source community. Whether it's bug fixes, new features, or enhancements, feel free to fork and create a pull request.
+  <h3 align="center">Discord-Bot</h3>
 
-📫 Contact:
-For questions, feedback, or support, join our Discord server [here](link-to-discord-server).
+  <p align="center">
+    Discord-bot is a Advanced Multipurpose bot containing more than 400+ Commands. It can do Moderation, Tickets, Radio, Games, Giveaways, Customisation, Economy, Leveling, Invites, Messages, Utilities, Suggestions, Server Stats etc.
+    <br />
+    <br />
+    <a href="https://github.com/corwindev/discord-bot/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/corwindev/discord-bot/issues">Request Feature</a>
+  </p>
+</p>
+<!-- ABOUT THE PROJECT -->
 
-📄 License:
-This project is licensed under the MIT License - see the [LICENSE](link-to-license) file for details.
+## <img src="https://cdn.discordapp.com/emojis/859424401186095114.png" width="20px" height="20px">》Description 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=corwindev&repo=Discord-bot&theme=tokyonight)](https://github.com/corwindev/Discord-bot)
+## <img src="https://cdn.discordapp.com/emojis/852881450667081728.gif" width="20px" height="20px">》Feature
+- [x] Slash Commands 
+- [x] Upto date with Discord.js v14
+- [x] Automod
+- [X] Custom Commands
+- [x] Music Commands
+- [x] Tickets
+- [x] Utility Commands
+- [x] Suggestions 
+- [x] Reaction Roles
+- [x] Family
+- [x] Giveaways 
+- [x] Easy to use
+- [x] Don't wanna host it yourself? [Use our public bot](https://discord.com/api/oauth2/authorize?client_id=1051755231848972328&permissions=8&scope=bot%20applications.commands)
+## <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="25px" height="25px">》Screenshots
+<br />
+<p align="center">
+  <a href="https://github.com/corwindev/discord-bot">
+    <img src="https://cdn.discordapp.com/attachments/778665159316209748/1055832339328024666/207117434-d98356b1-bf19-418e-9e12-0ef83e0d9a21.png">
+  </a>
+</p>
 
-👏 We hope you find this Discord Bot AI a valuable addition to your server. Let's create amazing experiences together!
+## <img src="https://cdn.discordapp.com/emojis/1009754836314628146.gif" width="25px" height="25px">》Requirements
+- NodeJs v17+
+- Java v13 for lavalink server.
+- Discord Token. Get it from [Discord Developers Portal](https://discord.com/developers/applications)
+- Mongo Database URL. Get it from [MongoDB](https://cloud.mongodb.com/v2/635277bf9f5c7b5620db28a4#clusters)
+- Giphy API Token. Get it from [Giphy Developers Portal](https://developers.giphy.com/)
+- APi Key for OpenAi `for ai chatbot`. Get it from [OpenAi Developers Portal](https://beta.openai.com/account/api-keys)
+- ClientID `for loading slash commands.`
+- Spotify client ID `for spotify support` [Click here to get](https://developer.spotify.com/dashboard/login)
+- Spotify client Secret `for spotify support` [Click here to get](https://developer.spotify.com/dashboard/login)
+
+## <img src="https://cdn.discordapp.com/emojis/814216203466965052.png" width="25px" height="25px">》Installation Guide
+
+### <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="15px" height="15px"> Installing via [NPM](https://www.npmjs.com/)
+Clone the repo by running
+```bash
+git clone https://github.com/iamsanko/icecake.git
+```
+After cloning Fill all requirement in `.env` **(rename `.env.example` to `.env`)**, then run
+
+```bash
+npm install
+```
+To start your bot 
+
+```js
+node src/index.js
+```
+### <img src="https://cdn.discordapp.com/emojis/1055803759831294013.png" width="20px" height="20px"> 》Notice
+> You may not claim this as your own!! **DO NOT COPY THE CODE WITHOUT PERMISSION OF SANKO **
+
+> Discord-Bot is a Multipurpose Discord bot base in [Discord.js](https://github.com/Discordjs/discordjs)
+If you liked this repository, feel free to leave a star ⭐ to motivate me!
+
+## <img src="https://cdn.discordapp.com/emojis/1036083490292244493.png" width="15px" height="15px">》Support Server
+[![DiscordBanner](https://invidget.switchblade.xyz/jVeC7cFX5T)](https://discord.gg/jVeC7cFX5T)
+[Support Server](https://discord.gg/jVeC7cFX5T) - Discord-Bot's Support Server Invite
+
+# <img src="https://cdn.discordapp.com/emojis/1015745034076819516.png" width="25px" height="25px">》Faq
+> How to get access to Developers Commands? You will have to set them up via MongoDB or run the below command.
+
+```bash
+npm add-dev YOUR_ID
+```
+# Donate
+
+ By Donating, You Will Help Me To Maintain This Project 
+
+<img src="https://cdn.discordapp.com/emojis/809085860632985630.png" width="15px" height="15px"> 》[Sponsor](https://github.com/iamsanko)
+
+
+[version-shield]: https://img.shields.io/github/package-json/v/CorwinDev/Discord-Bot?style=for-the-badge
+[version-url]: https://github.com/brblacky/WaveMusic
+[contributors-shield]: https://img.shields.io/github/contributors/CorwinDev/Discord-Bot.svg?style=for-the-badge
+[contributors-url]: https://github.com/Corwindev/Discord-Bot/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Corwindev/Discord-Bot.svg?style=for-the-badge
+[forks-url]: https://github.com/Corwindev/Discord-Bot/network/members
+[stars-shield]: https://img.shields.io/github/stars/Corwindev/Discord-Bot.svg?style=for-the-badge
+[stars-url]: https://github.com/Corwindev/Discord-Bot/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Corwindev/Discord-Bot.svg?style=for-the-badge
+[issues-url]: https://github.com/Corwindev/Discord-Bot/issues
+[license-shield]: https://img.shields.io/github/license/Corwindev/Discord-Bot.svg?style=for-the-badge
+[license-url]: https://github.com/Corwindev/Discord-Bot/blob/master/LICENSE
